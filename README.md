@@ -21,7 +21,18 @@ Learning the fundamentals from CS50x, this is my first attempt of creating a web
 - Link to Github
 ## FILE STRUCTURE
 - Templates
-  * test
+  * index.html: introduction
+  * education.html: schools attended
+  * portfolio.html: proficiency
+  * contact.html: links to other supporting materials possessed
+- Static
+  * Profile picture
+  * Dynamic Background
+  * School logo
+- Script
+  * Contains script for clicking on the photo
+- Styles
+  * Styling
 
 
 
