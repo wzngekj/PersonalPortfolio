@@ -42,11 +42,12 @@ body {
 
 #hidden {
     color: white;
-    font-size: 1vw;
+    font-size: 2vw;
     width: 30em;
     display: none;
     margin-top: 1%;
     margin-right: 20em;
+    font-family: serif;
 }
 
 .reveal {
