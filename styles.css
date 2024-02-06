@@ -55,6 +55,7 @@ body {
 
 .reveal {
     font-family: "Serif";
+    display: block;
 }
 
 .headers {
