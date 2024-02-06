@@ -20,7 +20,8 @@ Learning the fundamentals from CS50x, this is my first attempt of creating a web
 - Link to Linkedin
 - Link to Github
 ## FILE STRUCTURE
--tEST
+- Templates
+  * test
 
 
 
