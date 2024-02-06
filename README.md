@@ -16,9 +16,9 @@ Learning the fundamentals from CS50x, this is my first attempt of creating a web
 - Core understanding in other languages and frameworks
 ### Contact
 ![image](https://github.com/wzngekj/PersonalPortfolio/assets/147592707/6c2abe63-9a52-4aff-8b9d-9e44332b91d7)
-- Link to resume
-- Link to Linkedin
-- Link to Github
+- Link to `Resume`
+- Link to `Linkedin`
+- Link to `Github`
 ## FILE STRUCTURE
 - `Templates`
   * `index.html`: introduction
